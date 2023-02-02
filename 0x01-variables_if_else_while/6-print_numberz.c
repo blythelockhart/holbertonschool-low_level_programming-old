@@ -11,11 +11,11 @@
  */
 int main(void)
 {
-int d;
-for (d = '0'; d <= '9'; d++)
+int i;
+for (i = '0'; d <= '9'; i++)
 {
-putchar(d);
+putchar(i);
 }
-putchar("\n");
+putchar('\n');
 return (0);
 }
