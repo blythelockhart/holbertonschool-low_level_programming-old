@@ -31,7 +31,7 @@ for (; n >= 98; n--)
 {
 if (n ==98)
 {
-prntf("%d", n);
+printf("%d", n);
 printf("\n");
 break;
 }
