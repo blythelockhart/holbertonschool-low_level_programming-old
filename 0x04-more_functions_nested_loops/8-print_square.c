@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *
- *
- *
+ * print_square - Prints n squares according to parameter
+ * @size: The size of the square
+ * Return: Empty
  */
 void print_square(int size)
 {
