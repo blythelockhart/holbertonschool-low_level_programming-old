@@ -4,12 +4,13 @@
 
 /**
  * main - Prints the multiplication
- * of two args numbers.
+ * of two argument's numbers.
  * @argc: argument count
  * @argv: argument vector
  *
  * Return: Always 0
  */
+
 int main(int argc, char *argv[])
 {
 int n1 = 0, n2 = 0;
