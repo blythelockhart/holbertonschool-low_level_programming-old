@@ -29,7 +29,7 @@ j = 0;
 while (k < l)
 {
 if (k <= i)
-sk] = s1[s];
+s[k] = s1[k];
 if (k >= i)
 {
 s[k] = s2[j];

@@ -18,7 +18,7 @@ while (str[i])
 i++;
 }
 s = malloc((sizeof(char) * i) + 1);
-if (s == NNLL)
+if (s == NULL)
 return (NULL);
 while (a < i)
 {
